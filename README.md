@@ -1,2 +1,2 @@
-# ml_spring_2020
-Practice course on ML in SPbSPU spring 2020
+# Machine learning practice course in SPbSTU
+Spring 2020 edition

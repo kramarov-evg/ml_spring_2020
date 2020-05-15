@@ -1,0 +1,11 @@
+
+1st lab:
+  1st subtask:
+    [x] Read data @done(20-05-15 10:24)
+    [x] Translate into floats @done(20-05-15 10:25)
+    [x] Separate labels from features @done(20-05-15 10:26)
+    [x] Try test/train split @started(20-05-15 10:58) @done(20-05-15 11:10) @lasted(12m9s)
+    [x] Loop over test/train ratios @started(20-05-15 11:10) @done(20-05-15 11:27) @lasted(17m5s)
+    [ ] Plot results
+  2nd subtask:
+    [ ] Generate points

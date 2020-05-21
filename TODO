@@ -11,3 +11,10 @@
     [ ] Report on results
   2nd subtask:
     [ ] Generate points
+    [ ] Plot points
+    [ ] Create & train classifier
+    [ ] Get accuracy
+    [ ] Confusion matrix
+    [ ] ROC-curve
+    [ ] PR-curve
+    [ ] Plot data

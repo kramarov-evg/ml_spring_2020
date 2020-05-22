@@ -20,3 +20,13 @@
     [x] PR-curve @done(20-05-22 04:48)
     [x] Plot data @done(20-05-22 04:48)
     [ ] Report on results
+  3rd subtask:
+    [ ] Load data
+    [ ] Clean-up data
+    [ ] Build classifier
+    [ ] Loop over neighbours count
+    [ ] Plot results
+    [ ] Explore distance metrics
+    [ ] Plot results
+    [ ] Classify sample
+    [ ] Report on results

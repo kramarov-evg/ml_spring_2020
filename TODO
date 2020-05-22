@@ -14,8 +14,9 @@
     [x] Plot points @done(20-05-22 03:41)
     [ ] Adjust plot size @beautify
     [x] Create & train classifier @started(20-05-22 04:09) @done(20-05-22 04:37) @lasted(28m48s)
-    [ ] Get accuracy
-    [ ] Confusion matrix
-    [ ] ROC-curve
-    [ ] PR-curve
-    [ ] Plot data
+    [x] Get accuracy @done(20-05-22 04:48)
+    [x] Confusion matrix @done(20-05-22 04:48)
+    [x] ROC-curve @done(20-05-22 04:48)
+    [x] PR-curve @done(20-05-22 04:48)
+    [x] Plot data @done(20-05-22 04:48)
+    [ ] Report on results

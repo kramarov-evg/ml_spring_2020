@@ -19,13 +19,14 @@
     [x] ROC-curve @done(20-05-22 04:48)
     [x] PR-curve @done(20-05-22 04:48)
     [x] Plot data @done(20-05-22 04:48)
+    [ ] Reimplement with splitting data
     [ ] Report on results
   3rd subtask:
-    [ ] Load data
-    [ ] Clean-up data
-    [ ] Build classifier
-    [ ] Loop over neighbours count
-    [ ] Plot results
+    [x] Load data @started(20-05-22 10:15) @done(20-05-22 10:25) @lasted(10m13s)
+    [x] Clean-up data @done(20-05-22 10:29)
+    [x] Build classifier @started(20-05-22 11:47) @done(20-05-22 11:52) @lasted(5m44s)
+    [x] Loop over neighbours count @started(20-05-22 11:52) @done(20-05-22 12:10) @lasted(18m45s)
+    [x] Plot results @done(20-05-22 12:10)
     [ ] Explore distance metrics
     [ ] Plot results
     [ ] Classify sample

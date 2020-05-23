@@ -50,9 +50,11 @@
     [ ] Interpret results
     [ ] Decide whether tree is excessive
     [x] Experiment with params and test accuracy with them @done(20-05-24 01:06)
-    [ ] Load data
-    [ ] Build optimal tree
+    [x] Load data @done(20-05-24 01:11)
+    [x] Build optimal tree @done(20-05-24 01:42)
     [ ] Explain why is optimal
-    [ ] Visualize tree
-    [ ] Identify most important features
-    [ ] Estimate classification accuracy
+    Because not too big & good accuracy
+    [x] Visualize tree @done(20-05-24 01:42)
+    [x] Identify most important features @done(20-05-24 01:43)
+    Most important is x1, second most is x0
+    [x] Estimate classification accuracy @done(20-05-24 01:43)

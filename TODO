@@ -27,7 +27,15 @@
     [x] Build classifier @started(20-05-22 11:47) @done(20-05-22 11:52) @lasted(5m44s)
     [x] Loop over neighbours count @started(20-05-22 11:52) @done(20-05-22 12:10) @lasted(18m45s)
     [x] Plot results @done(20-05-22 12:10)
-    [ ] Explore distance metrics
-    [ ] Plot results
-    [ ] Classify sample
+    [x] Explore distance metrics @done(20-05-23 11:10)
+    [x] Plot results @done(20-05-23 11:10)
+    [x] Classify sample @done(20-05-23 11:10)
     [ ] Report on results
+  4th subtask:
+    [ ] Read on SVM
+    [ ] Load data
+    [ ] Clean-up data
+    [ ] Build classifier with linear kernel
+    [ ] Train classifier & plot space division
+    [ ] Plot confusion matrix (train + test) & print vectors number
+    [ ] Change fine value to 0 error on training and test sets

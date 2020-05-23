@@ -43,3 +43,16 @@
     4.e Overfitting happens only with rbf (gaussian) and is more visible on higher gamma values
     [ ] Unify 4.e
     [ ] Report on results
+  5th subtask:
+    [x] Load data @done(20-05-23 22:19)
+    [x] Build base tree @done(20-05-23 22:50)
+    [x] Visualize tree @done(20-05-23 22:50)
+    [ ] Interpret results
+    [ ] Decide whether tree is excessive
+    [x] Experiment with params and test accuracy with them @done(20-05-24 01:06)
+    [ ] Load data
+    [ ] Build optimal tree
+    [ ] Explain why is optimal
+    [ ] Visualize tree
+    [ ] Identify most important features
+    [ ] Estimate classification accuracy

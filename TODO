@@ -32,10 +32,11 @@
     [x] Classify sample @done(20-05-23 11:10)
     [ ] Report on results
   4th subtask:
-    [ ] Read on SVM
-    [ ] Load data
-    [ ] Clean-up data
-    [ ] Build classifier with linear kernel
-    [ ] Train classifier & plot space division
-    [ ] Plot confusion matrix (train + test) & print vectors number
-    [ ] Change fine value to 0 error on training and test sets
+    [x] Read on SVM @done(20-05-23 18:40)
+    [x] Load data @done(20-05-23 18:40)
+    [x] Clean-up data @done(20-05-23 18:40)
+    [x] Build classifier with linear kernel @done(20-05-23 18:40)
+    [x] Train classifier & plot space division @done(20-05-23 18:41)
+    [x] Plot confusion matrix (train + test) & print vectors number @done(20-05-23 18:41)
+    [x] Change fine value to 0 error on training and test sets @done(20-05-23 18:41)
+    [ ] Beautify @beautify

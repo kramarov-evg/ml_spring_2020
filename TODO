@@ -40,3 +40,6 @@
     [x] Plot confusion matrix (train + test) & print vectors number @done(20-05-23 18:41)
     [x] Change fine value to 0 error on training and test sets @done(20-05-23 18:41)
     [ ] Beautify @beautify
+    4.e Overfitting happens only with rbf (gaussian) and is more visible on higher gamma values
+    [ ] Unify 4.e
+    [ ] Report on results

@@ -58,3 +58,9 @@
     [x] Identify most important features @done(20-05-24 01:43)
     Most important is x1, second most is x0
     [x] Estimate classification accuracy @done(20-05-24 01:43)
+  6th subtask:
+    [x] Load data @done(20-05-24 02:23)
+    [x] Create 2 classifiers @done(20-05-24 02:24)
+    [x] Train them @done(20-05-24 02:24)
+    [x] Select metrics @done(20-05-24 02:24)
+    [x] Plot results @done(20-05-24 02:24)

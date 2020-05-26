@@ -67,12 +67,13 @@
 
 2nd lab:
   1st subtask:
-    [ ] Create neural network of a single neuron
-    [ ] Train & evaluate on nn_0.csv & nn_1.csv. Explain why results differ
-    [ ] How many epochs needed?
-    [ ] Experiment with activation functions and optimizers
+    [x] Create neural network of a single neuron @done(20-05-26 02:46)
+    [x] Train & evaluate on nn_0.csv & nn_1.csv. Explain why results differ @done(20-05-26 03:58)
+    [x] How many epochs needed? @done(20-05-26 18:52)
+    50 is enough
+    [x] Experiment with activation functions and optimizers @done(20-05-26 18:52)
   2nd subtask:
-    [ ] Modify NN from 1st task to fit optimally to nn_1.csv.
-    [ ] What changed? Why?
+    [x] Modify NN from 1st task to fit optimally to nn_1.csv. @done(20-05-26 18:52)
+    [x] What changed? Why? @done(20-05-26 18:52)
   3rd subtask:
-    [ ] Build classifier for MNIST dataset & evaluate classification quality
+    [x] Build classifier for MNIST dataset & evaluate classification quality @done(20-05-26 18:52)

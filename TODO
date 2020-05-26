@@ -77,3 +77,17 @@
     [x] What changed? Why? @done(20-05-26 18:52)
   3rd subtask:
     [x] Build classifier for MNIST dataset & evaluate classification quality @done(20-05-26 18:52)
+
+3rd lab:
+  1st subtask:
+    [ ] Divide into 3 clusters pluton.csv with k-means
+    [ ] Compare division quality dependent on number of iterations, algorithm and standartization
+    [ ] Clusterize datasets with k-means, DBSCAN & ierarchical
+    [ ] Choose optimal number of clusters (where aplicable)
+    [ ] Which method performed better?
+    [ ] Get n clusters of image colors
+    [ ] Get their centers
+    [ ] Compress colorspace
+    [ ] Compare original & compressed image
+    [ ] Build dendrogram for votes.csv
+    [ ] Interpret results

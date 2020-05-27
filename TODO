@@ -94,12 +94,12 @@
     [x] Interpret results @done(20-05-27 06:58)
 4th lab:
   1st subtask:
-    [ ] Build bagging classifier
-    [ ] Plot accuracy(number of classifiers) on glass.csv with different calssifiers
-    [ ] Explain results
+    [x] Build bagging classifier @done(20-05-27 21:30)
+    [x] Plot accuracy(number of classifiers) on glass.csv with different calssifiers @done(20-05-28 01:56)
+    [x] Explain results @done(20-05-28 01:56)
   2nd subtask:
-    [ ] Plot accuracy(number of classifiers) for AdaBoost on vehicle.csv
-    [ ] Explain results
+    [x] Plot accuracy(number of classifiers) for AdaBoost on vehicle.csv @done(20-05-28 01:56)
+    [x] Explain results @done(20-05-28 01:56)
   3rd subtask:
-    [ ] Create stacking meta-classifier for titanic.csv
-    [ ] Estimate classification accuracy
+    [x] Create stacking meta-classifier for titanic.csv @done(20-05-28 01:56)
+    [x] Estimate classification accuracy @done(20-05-28 01:56)

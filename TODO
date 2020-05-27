@@ -92,3 +92,14 @@
     [x] Compare original & compressed image @done(20-05-27 05:54)
     [x] Build dendrogram for votes.csv @done(20-05-27 05:54)
     [x] Interpret results @done(20-05-27 06:58)
+4th lab:
+  1st subtask:
+    [ ] Build bagging classifier
+    [ ] Plot accuracy(number of classifiers) on glass.csv with different calssifiers
+    [ ] Explain results
+  2nd subtask:
+    [ ] Plot accuracy(number of classifiers) for AdaBoost on vehicle.csv
+    [ ] Explain results
+  3rd subtask:
+    [ ] Create stacking meta-classifier for titanic.csv
+    [ ] Estimate classification accuracy

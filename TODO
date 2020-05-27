@@ -80,14 +80,15 @@
 
 3rd lab:
   1st subtask:
-    [ ] Divide into 3 clusters pluton.csv with k-means
-    [ ] Compare division quality dependent on number of iterations, algorithm and standartization
-    [ ] Clusterize datasets with k-means, DBSCAN & ierarchical
-    [ ] Choose optimal number of clusters (where aplicable)
-    [ ] Which method performed better?
-    [ ] Get n clusters of image colors
-    [ ] Get their centers
-    [ ] Compress colorspace
-    [ ] Compare original & compressed image
-    [ ] Build dendrogram for votes.csv
-    [ ] Interpret results
+    [x] Divide into 3 clusters pluton.csv with k-means @done(20-05-27 02:12)
+    [x] Compare division quality dependent on number of iterations, algorithm and standartization @done(20-05-27 02:12)
+    [x] Plot comparison results @done(20-05-27 02:48)
+    [x] Clusterize datasets with k-means, DBSCAN & hierarchical @done(20-05-27 03:54)
+    [x] Choose optimal number of clusters (where aplicable) @done(20-05-27 03:54)
+    [x] Which method performed better? @done(20-05-27 03:54)
+    [x] Get n clusters of image colors @done(20-05-27 05:54)
+    [x] Get their centers @done(20-05-27 05:54)
+    [x] Compress colorspace @done(20-05-27 05:54)
+    [x] Compare original & compressed image @done(20-05-27 05:54)
+    [x] Build dendrogram for votes.csv @done(20-05-27 05:54)
+    [x] Interpret results @done(20-05-27 06:58)
